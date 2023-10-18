@@ -74,13 +74,13 @@ public class Application2 {
         목차2-1.  함수를 취급하는 자료형에 값 대입
 
          */
-        bnum = 1;
-        snum = 2;
-        inum = 4;
-        lnum = 8;
+      //  bnum = 1;
+       // snum = 2;
+      //  inum = 4;
+       // lnum = 8;
 
 
-        System.out.println(lnum);
+  //      System.out.println(lnum);
 
         //목차 2-2. 실수를 취급하는 자료형에 값 대입
         fnum = 4.0f; //
@@ -93,10 +93,10 @@ public class Application2 {
 
         //목차 2-4. 논리를 취급하는 자료형에 값 대입
         isTure = true;
-        isFalse = false;
+        isTure = false;
 
         //목차 2-5. 문자열을 취급하는ㄴ 자료형에 값 대입
-        str - "안녕하세요";
+        str = "안녕하세요";
 
 
         /* 숫자로 된 형태의 값을 그대로 사용하는 자료형은 byte, short, int, double이다.
@@ -107,28 +107,29 @@ public class Application2 {
         int bonus = 10;
 
         System.out.println("=============변수값 출력하기===========");
-        System.out.println("bnum의 값" + bnum);
-        System.out.println("snum의 값" + snum);
-        System.out.println("inum의 값" + inum);
-        System.out.println("lnum의 값" + lnum);
+       // System.out.println("bnum의 값" + bnum);
+      //  System.out.println("snum의 값" + snum);
+       // System.out.println("inum의 값" + inum);
+      //  System.out.println("lnum의 값" + lnum);
 
-        System.out.println("fnum의 값" + fnum);
-        System.out.println("dnum의 값" + dnum);
+     //   System.out.println("fnum의 값" + fnum);
+     //   System.out.println("dnum의 값" + dnum);
 
-        System.out.println("isTrue의 값 : " + isTrue);
+      //  System.out.println("isTrue의 값 : " + isTrue);
 
-        System.out.println("str의 값" + str);
+      //  System.out.println("str의 값" + str);
 
         /*
         목차 3-3 변수를 이용해서 연산하기
         변수에 저장된 값을 이용해서 연산할 수 있다.
          */
 
-        System.out.println("포인트와 보너스의 합은 : " + (point+bonus));
+     //   System.out.println("포인트와 보너스의 합은 : " + (point+bonus));
 
         //목차 3-3. 대입연산자의 왼쪽과 오른쪽 편에 사용하기
         point = point + 100;
-        System.out.println("point = point + 100 ?" + point);
+     //   System.out.println("point = point + 100 ?" + point);
+
 
 
 
