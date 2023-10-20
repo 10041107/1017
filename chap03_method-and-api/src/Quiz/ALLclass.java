@@ -93,9 +93,42 @@ public class ALLclass {
         Scanner sc = new Scanner(System.in);
         int score = sc.nextInt();
 
-        // result의 값은 조건에 따라 좌항 혹은 우항으로 결정된다.
         String result = ( score < 10 ) ? "10보다 작습니다." : "10보다 큽니다.";
         System.out.println(result);
+
+        /*
+        3. 반복문
+
+        3-1. for 반복문
+        */
+        for(int i = 0 ; i < 100 ; i++){
+        //이와 같은 형태로 사용한다.
+        }
+
+        /*
+        3-2. for each 반복문
+        배열, 리스트 등에서 하나하나의 원소들을 iterate하며 사용하는 방식
+         */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
         //https://velog.io/@rlafbf222/JAVA-%EA%B8%B0%EC%B4%88-%EB%AC%B8%EB%B2%95-%EA%B0%9C%EB%85%90-%EC%A0%95%EB%A6%AC
 
