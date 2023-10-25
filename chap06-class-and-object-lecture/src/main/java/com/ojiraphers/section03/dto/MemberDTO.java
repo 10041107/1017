@@ -24,4 +24,12 @@ public class MemberDTO {
     public void setName(String name) {
         this.name = name;
     }
+
+    /*
+    html, css, js, java, mysql(db), jdbc, mybatis(jdbc)(국내에서만 자주 사용함. 샌드박스... 스프링 프레임워크에 포함되어있음),
+    spring frame work, thymelfe(java), 세미 프로젝트 [12월 말~1월 초]
+    spring boot, jpa, js-core, reactNative(app), ai 서버 구성, 어플리케이션 배포, 클라우드 서버 구성(경우에 따라 이벤트성으로, 비용부담 있음)
+
+    */
+
 }

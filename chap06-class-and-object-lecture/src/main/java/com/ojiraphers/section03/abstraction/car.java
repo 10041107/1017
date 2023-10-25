@@ -15,7 +15,10 @@ public class car {
             this.isOn = true;
             System.out.println("시동이 걸렸습니다.");
         }
+
     }
+
+
 
 
     public void go() {
