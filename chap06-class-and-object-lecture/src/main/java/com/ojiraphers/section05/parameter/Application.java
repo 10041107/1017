@@ -1,4 +1,4 @@
-package main.java.com.ojiraphers.section04.parameter;
+package main.java.com.ojiraphers.section05.parameter;
 
 public class Application {
 
@@ -37,6 +37,3 @@ public class Application {
     }
 
 
-
-
-}

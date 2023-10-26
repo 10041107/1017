@@ -6,10 +6,10 @@ public class Application03 {
        /*
        값의 형태 별 기본값
        //heap값은 지정할수없음:상태의 0 상태(비어있는 상태)가 불가능함 자동으로 값이 지정됨. 그 지정되는 값
-       정수 : 9
-       실수 : 9.9
+       정수 : 0
+       실수 : 0.0
        논리 : false
-       문자 : \u9999
+       문자 : \u0000
        참조 : null
         */
 
@@ -32,7 +32,7 @@ public class Application03 {
 //        위 내용과 동일하다
           int[] iarr5 = new int[]{10, 20, 30, 40, 50};
 
-//        String[] sarry = ("언뇽", "안녕", "안");
+        String[] sarry = {"언뇽", "안녕", "안"};
 
 
     }

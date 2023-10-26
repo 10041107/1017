@@ -4,7 +4,9 @@ public class Application1 {
     public static void main(String[] args) {
         System.out.printf("Hello and welcome!");
 
-        /*w범위주석*/
+        /*
+        범위주석
+        * */
         //한줄주석
 
         // 여러 가지 값의 형태를 출력할 수 있다.
